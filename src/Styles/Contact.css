@@ -1,0 +1,24 @@
+
+
+.body{
+    background-color:rgb(68, 204, 152);
+    color: white;padding-top: 60px;
+}
+.contact__form .form-control {
+    padding: 1.375rem .75rem;
+    line-height: 1.5;
+    /* color: var(--text-color);
+    background-color: var(--bg-color); */
+    border-radius: 0 !important;
+    border: 1px solid var(--secondary-color);
+}
+.contact__form input.form-control {
+    margin-bottom: 2em;
+    height: calc(2.5em + .75rem + 2px);
+}
+.btn{
+    color: #fff;
+}
+.btn:hover{
+    color:black;
+}

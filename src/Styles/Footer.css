@@ -1,0 +1,32 @@
+
+
+.icon-logo{
+  text-align: center;
+ 
+  font-size: 40px;
+ 
+  color: skyblue;
+  *{
+    margin: 10px;
+  }
+ 
+ 
+   
+}
+.icon-logo :hover{
+    color: blueviolet;
+  }
+.footer-container {
+    background-color:black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-box {
+    max-width: 100px;
+    margin: 0 auto;
+  }
+  
+ 
+  

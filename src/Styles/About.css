@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items:left ;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-contact h1{
+
+    margin: 10px 15px;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+
+}
+.about-contact p{
+    margin: 15px 25px;
+    text-align: center;
+    color: black;
+    
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

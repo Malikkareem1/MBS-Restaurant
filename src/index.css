@@ -1,0 +1,29 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* * {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+body{
+  font-family: "roboto", sans-serif;
+}
+
+.product-list-grid{
+  display: inline-block;
+  padding: 0.7rem 1.3rem;
+  margin-bottom: 2rem;
+  margin-top: 0.5rem;
+  
+   color:white;
+   text-decoration: none;
+   background-color:black ;
+   box-shadow: 2px 2px 5px #ddd;
+   transition: 0.2s ease-in;
+   border: none;
+   font-family: chivo Mono;
+   font-size: 1rem;
+}
+
